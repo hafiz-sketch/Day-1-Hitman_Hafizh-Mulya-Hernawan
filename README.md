@@ -1,7 +1,7 @@
 # Day-1-Hitman_Hafizh-Mulya-Hernawan
-Repository ini digunakan untuk mengumpulkan dokumentasi kegiatan seperti materi yang disampaikan, catatan pembelajaran, selama workshop berlangsung.
-Misi ini dilaksanakan dengan tujuan sebagai berikut: memperkenalkan peserta pada platform GitHub sebagai sarana penyimpanan dan pengelolaan dokumentasi secara daring, melatih peserta membuat dan mengelola repository dengan visibilitas Public, membiasakan peserta mendokumentasikan materi dan kegiatan selama workshop berlangsung, meningkatkan kemampuan peserta dalam menyusun catatan dan mengelola file secara terstruktur, melatih peserta menggunakan file README.md sebagai dokumentasi utama repository.
-Dokumentasi kegiatan workshop:
+- Repository ini digunakan untuk mengumpulkan dokumentasi kegiatan seperti materi yang disampaikan, catatan pembelajaran, selama workshop berlangsung.
+- Misi ini dilaksanakan dengan tujuan sebagai berikut: memperkenalkan peserta pada platform GitHub sebagai sarana penyimpanan dan pengelolaan dokumentasi secara daring, melatih peserta membuat dan mengelola repository dengan visibilitas Public, membiasakan peserta mendokumentasikan materi dan kegiatan selama workshop berlangsung, meningkatkan kemampuan peserta dalam menyusun catatan dan mengelola file secara terstruktur, melatih peserta menggunakan file README.md sebagai dokumentasi utama repository.
+- Dokumentasi kegiatan workshop:
 a. Rangkuman materi yang disampaikan selama workshop:
 - Konteks adalah kunci untuk memberikan prompt ke AI.
 - Prompt dengan konteks akan mendapatkan hasil yang lebih baik daripada prompt tanpa konteks atau alur yang sesuai.
@@ -21,4 +21,4 @@ b. Poin-poin penting atau pengetahuan baru yang dipelajari saat workshop:
 - Git adalah version control system.
 - Tiga area kerja Git: working directory, staging area, git directory (repository).
 c. Pendapat pribadi tentang Day 1 Proyek Workshop
-Menurut saya, materi ini sangat relevan karena banyak orang mengganggap AI "kurang pintar" padahal masalahnya ada di prompt yang kurang jelas. Struktur Role, Task, Context, Format memudahkan saya menyusun perintah dengan lebih terarah, dan saya juga jadi sadar bahwa hasil AI sangat bergantung pada kualitas instruksi dari penggunanya.
+- Menurut saya, materi ini sangat relevan karena banyak orang mengganggap AI "kurang pintar" padahal masalahnya ada di prompt yang kurang jelas. Struktur Role, Task, Context, Format memudahkan saya menyusun perintah dengan lebih terarah, dan saya juga jadi sadar bahwa hasil AI sangat bergantung pada kualitas instruksi dari penggunanya.
